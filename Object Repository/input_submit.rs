@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[type=&quot;submit&quot;]</value>
+         <value>div.FPdoLc.lJ9FBc > center > input[name=&quot;btnK&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Send']</value>
+         <value>(//input[@name='btnK'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>177c3e79-bd0c-48ca-88a4-a6d51cf8fab3</webElementGuid>
+      <webElementGuid>0ef9ebdf-0560-42ad-be85-3ff99fc71aba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,26 +30,98 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8ebac934-b5a6-4abd-8d34-1ae51504ef28</webElementGuid>
+      <webElementGuid>c7d51837-cb2b-4446-9a02-4fbf382cd028</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Send</value>
-      <webElementGuid>c1b24bbe-ae71-4d57-90e9-2929f7d700e0</webElementGuid>
+      <value>Google Search</value>
+      <webElementGuid>5dfabe0a-a914-4921-9964-f642303c638e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/section[1]/div[@class=&quot;contact&quot;]/div[@class=&quot;contact-form&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;input100&quot;]/input[1]</value>
-      <webElementGuid>e132d9ce-523b-4d04-a51e-5c6bd854199c</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;FPdoLc lJ9FBc&quot;]/center[1]/input[@class=&quot;gNO89b&quot;]</value>
+      <webElementGuid>94a601b1-e5ce-41d3-af45-61fa7270665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gNO89b</value>
+      <webElementGuid>1de5704b-ba45-41b9-9cc6-8a54f92efd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Google Search</value>
+      <webElementGuid>c6503525-b4b1-4b1c-91ac-03ca867762c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>btnK</value>
+      <webElementGuid>7ede19f1-7d1e-4b92-b2ba-8c4add24ca7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f7ca0099-a7c7-49f4-8df9-6c93105f1c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>11851c00-007f-4666-a451-420bfb58f95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>0ahUKEwiqra3Emd-AAxVUwzgGHT1IACsQ4dUDCA8</value>
+      <webElementGuid>9d5d1562-02f1-44d5-a5b2-295a955d1df6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='btnK'])[2]</value>
+      <webElementGuid>830709f3-a680-4e98-8524-f7c698e90fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/center/input</value>
+      <webElementGuid>0d5f6eb6-680c-4db9-b303-4495e1eeb83c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'btnK' and @type = 'submit']</value>
+      <webElementGuid>4446f262-f8ab-4263-9b60-fb04cfb98007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
